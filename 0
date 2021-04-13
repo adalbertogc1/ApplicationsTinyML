@@ -1,0 +1,10 @@
+Collecting python_speech_features
+  Downloading python_speech_features-0.6.tar.gz (5.6 kB)
+Building wheels for collected packages: python-speech-features
+  Building wheel for python-speech-features (setup.py): started
+  Building wheel for python-speech-features (setup.py): finished with status 'done'
+  Created wheel for python-speech-features: filename=python_speech_features-0.6-py3-none-any.whl size=5887 sha256=0fd66d8f3bcb9238c750084b8e8622e9364b22ce8833f7c4df90a49808942507
+  Stored in directory: /Users/Adalberto/Library/Caches/pip/wheels/5b/60/87/28af2605138deac93d162904df42b6fdda1dab9b8757c62aa3
+Successfully built python-speech-features
+Installing collected packages: python-speech-features
+Successfully installed python-speech-features-0.6
